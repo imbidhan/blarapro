@@ -1,0 +1,685 @@
+@media (max-width: 1700px) {
+    input[type=number]::-webkit-inner-spin-button,
+    input[type=number]::-webkit-outer-spin-button {
+        -webkit-appearance: none;
+        margin: 0;
+    }
+  .service-chart-image {
+    right: -10%;
+  }
+}
+@media (max-width: 1400px) {
+    input[type=number]::-webkit-inner-spin-button,
+    input[type=number]::-webkit-outer-spin-button {
+        -webkit-appearance: none;
+        margin: 0;
+    }
+  .service-chart-image {
+    right: -20%;
+  }
+}
+@media (max-width: 1199px) {
+    input[type=number]::-webkit-inner-spin-button,
+    input[type=number]::-webkit-outer-spin-button {
+        -webkit-appearance: none;
+        margin: 0;
+    }
+  .navbar {
+    padding-right: 10px;
+  }
+  .banner-content-area {
+    padding: 200px 0 190px 0;
+  }
+  .banner-title {
+    font-size: 62px;
+  }
+  .banner-image-part.active .thumb-two {
+    bottom: -35%;
+    left: 10%;
+  }
+  .banner-image-part.active .thumb-four {
+    top: 2%;
+    left: 9%;
+  }
+  .video-part {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+    min-height: 450px;
+  }
+  .app-content {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+    padding: 73px 30px 90px 30px;
+  }
+  .step-line::before {
+    left: 0;
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+  .testmonial-thumb-part::before {
+    top: 4%;
+    left: -2%;
+    width: 479px;
+    height: 371px;
+  }
+  .service-chart-image,
+  .feature-section::before,
+  .feature-section::after {
+    display: none;
+  }
+  .service-section.section-padding {
+    padding-bottom: 120px;
+  }
+}
+
+@media (max-width: 991px) {
+    input[type=number]::-webkit-inner-spin-button,
+    input[type=number]::-webkit-outer-spin-button {
+        -webkit-appearance: none;
+        margin: 0;
+    }
+  .navbar {
+    padding-right: 0;
+  }
+  .main-menu > li.active::before, .main-menu > li:hover::before {
+    display: none;
+  }
+  .main-menu > li::before {
+    display: none;
+  }
+  .main-menu li a {
+    padding: 8px 15px;
+    display: block;
+  }
+  .main-menu > li+li > a {
+    border-top: 1px solid rgba(255, 255, 255, 0.09);
+  }
+  .navbar-collapse {
+    padding: 15px 0;
+  }
+  li.menu_has_children:after {
+    top: 9px;
+  }
+  .sub-menu {
+    display: none;
+    position: initial;
+    opacity: 1;
+    visibility: visible;
+    transition: none;
+    -webkit-transition: none;
+    -moz-transition: none;
+    -ms-transition: none;
+    -o-transition: none;
+  }
+  .banner-bottom {
+    padding: 15px 0;
+  }
+  .banner-bottom::before {
+    left: 0;
+  }
+  .promo-video-part {
+    justify-content: center;
+  }
+  .promo-video-part .content {
+    padding-left: 0;
+    text-align: center;
+    padding-top: 15px;
+  }
+  .play-table {
+    width: 930px;
+  }
+  .play-table-part {
+    overflow-x: auto;
+  }
+  .section-padding {
+    padding-top: 90px;
+    padding-bottom: 90px;
+  }
+  .app-content {
+    padding: 73px 30px 90px 30px;;
+  }
+  .step-line::before {
+    display: none;
+  }
+  .step-item {
+    padding: 0 15px;
+  }
+  .service-section.section-padding {
+    padding-bottom: 90px;
+  }
+  .testimonial-section .row div[class*="col"]:last-child {
+    order: -1;
+  }
+  .testmonial-thumb-part {
+    margin-bottom: 45px;
+    text-align: center;
+  }
+  .testmonial-thumb {
+    display: inline-block;
+  }
+  .testmonial-thumb-part::before {
+    top: 10%;
+    left: 12%;
+    width: 508px;
+    height: 402px;
+  }
+  .testimonial-slider-arrows {
+    left: 0;
+  }
+  .testimonial-section {
+    padding-bottom: 140px;
+  }
+  .play-butlar-slider-arrows {
+    bottom: 75px;
+  }
+  .footer-widget {
+    margin-bottom: 30px;
+  }
+  .footer-top {
+    padding-bottom: 70px;
+  }
+  .breadcum-area {
+    padding: 80px 0;
+  }
+  .promotion-block-thumb {
+    margin-top: 45px;
+  }
+  .promotion-thumb.m-top {
+    margin-top: 45px;
+  }
+  .statistics-table-result-part .nav a i {
+    font-size: 32px;
+  }
+  .league-result-area-inner {
+    width: 930px;
+  }
+  .league-result-area {
+    overflow: auto;
+  }
+  .faq-section .row div[class*="col"]+div[class*="col"] {
+    margin-top: 30px;
+  }
+  .error-section {
+    padding-top: 50px;
+    padding-bottom: 80px;
+  }
+  .sidebar {
+    margin-top: 50px;
+  }
+  .place-bet-section .card-body {
+    overflow: auto;
+  }
+  .place-bet-section .statistics-result-table {
+    width: 725px;
+  }
+}
+
+@media (max-width: 767px) {
+    input[type=number]::-webkit-inner-spin-button,
+    input[type=number]::-webkit-outer-spin-button {
+        -webkit-appearance: none;
+        margin: 0;
+    }
+  .banner-image-part {
+    display: none;
+  }
+  .banner-content-area {
+    padding: 130px 0 145px 0;
+  }
+  .banner-title {
+    font-size: 56px;
+  }
+  .banner-bottom {
+    padding: 20px 0;
+    text-align: center;
+  }
+  .banner-bottom .thumb {
+    margin-bottom: 20px;
+  }
+  .promo-video-part {
+    margin-bottom: 30px;
+  }
+  h2, h2>a {
+    font-size: 42px;
+  }
+  .app-content .content {
+    order: 1;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+    padding-top: 45px;
+    text-align: center;
+  }
+  .app-content .thumb {
+    order: -1;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+    text-align: center;
+  }
+  .app-features-list {
+    display: inline-block;
+    text-align: left;
+  }
+  .step-item {
+    margin-bottom: 30px;
+  }
+  .step-section {
+    padding-bottom: 65px;
+  }
+  .testmonial-thumb-part::before {
+    left: 0;
+  }
+  .subscribe-form .subs-email {
+    width: 100%;
+  }
+  .subscribe-form .sub-btn {
+    width: 100%;
+    margin-top: 15px;
+  }
+  .statistics-result-area .result-single .details,
+  .statistics-result-area .result-single .team-area,
+  .statistics-team-area,
+  .statistics-result-area {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .statistics-result-area .result-single .team-area {
+    margin-top: 15px;
+  }
+  .statistics-result-area {
+    padding-left: 0;
+    margin-top: 45px;
+  }
+  .about-thumb {
+    text-align: center;
+  }
+  .about-content {
+    text-align: center;
+    margin-top: 45px;
+  }
+  .counter-item {
+    margin: 15px 0;
+  }
+  .counter-section {
+    padding: 75px 0;
+  }
+  .cmn-accordion .card-body {
+    padding: 0 30px 20px 30px;
+  }
+  .promo-video-part .content {
+    padding-left: 15px;
+    padding-top: 0;
+    text-align: left;
+  }
+  .online-play-tab-part .nav a i {
+    font-size: 30px;
+  }
+  .online-play-tab-part .nav a span {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 575px) {
+    .matchScores {
+        display: block;
+        font-size: 10px;
+    }
+    .frontendCustomLogin input{
+        width:150px;
+    }
+    .login-block{
+        background:#eaeaea;
+    }
+    .login-block .title {
+        color: #000;
+    }
+    .cusLogIn{
+        display: inline-block;
+    }
+    .mobileCusJoin{
+        display :inline-block;
+    }
+    /*404 page style*/
+    .wrapper404 {
+        margin-top: 150px;
+    }
+    .wrapper404 h2 {
+        font-size: 25px;
+    }
+    .userProfileheader {
+        padding-top: 39px;
+        padding-bottom: 5px;
+    }
+    .joinNewClubUser , .joinNewUser {
+        display: none;
+    }
+    .joinNewClubUserSingle , .joinNewUserSingle {
+        display: block !important;
+    }
+    .frontendCustomLogin {
+        padding-top: 30px;
+        padding-bottom: 10px;
+    }
+    .sliderMainArea {
+        padding-top: 146px;
+    }
+    .customRegistration {
+        padding-top: 30px;
+    }
+    .customRegistration h3 {
+        margin-bottom: 15px !important;
+    }
+    .joinMgs {
+        font-size: 14px;
+    }
+    .allowCharacter {
+        font-size: 14px;
+    }
+    #onlineUserFullForm input, #onlineUserFullForm select {
+        height: 40px;
+    }
+    #onlineUserFullForm button {
+        padding: 9px 20px;
+    }
+    .carousel-control-prev-icon, .carousel-control-next-icon {
+        margin-top: 120px;
+    }
+    .breadcrumbs-custom-wrap {
+        padding: 30px 0;
+        margin-top: 145px;
+    }
+    .depositMsgSize{
+        font-size: 12px;
+        font-weight: bold;
+    }
+    .customProfile {
+        color: #000;
+    }
+    .login-block {
+        padding: 30px 0 !important;
+    }
+    .title {
+        font-size: 20px !important;
+        margin-bottom: 30px !important;
+    }
+    .customProfile table{
+        border:1px;
+        font-size:10px;
+        color:#000;
+    }
+    .customProfile table th, .customProfile table td {
+        border: 1px solid;
+        font-size: 10px;
+    }
+    .onBetNav .nav {
+        height: 400px;
+    }
+    .onBetNav .nav li {
+        padding-left: 15px;
+    }
+    .customSportsTab li {
+        padding: 5px 5px;
+    }
+    .matchTournamentDetailPart p {
+        font-size: 12px;
+        font-weight: 700;
+    }
+    .liveNotification {
+        padding: 4px 5px;
+        padding-left: 10px;
+        font-size: 9px;
+        font-weight: 700;
+    }
+    .liveDot {
+        top: 8px;
+    }
+    .sidebar-frontend {
+        margin-top: 15px;
+    }
+
+    /*Modal body style*/
+
+    #placeBetBtn .modal-header {
+        display:block;
+        background:#eee;
+        height:45px;
+        padding-top: 5px;
+    }
+    #customModelClose {
+        margin-top: -5px;
+        padding: 10px;
+    }
+    #placeBetBtn .modal-body {
+        padding: 0px 5px;
+    }
+
+    #placeBetBtn .modal-footer {
+        padding: 5px;
+    }
+    .modalCustomBody {
+        padding: 2px 0px;
+    }
+    .modalQusAnsBlock {
+        padding-left: 10px;
+    }
+    .modalQusAnsBlock input {
+        margin-right: 5px;
+    }
+    .slideImg{
+        height: 220px !important;
+    }
+    .custom-slider-content {
+        width: 290px !important;
+        left: 8% !important;
+        top: 5% !important;
+    }
+    .custom-slider-content h2 {
+        font-size: 20px !important;
+    }
+    .custom-slider-content p {
+        font-size: 15px !important;
+        font-weight: 700;
+    }
+
+    .carousel-control-prev, .carousel-control-next {
+        width: 7%;
+    }
+
+    .banner-content-area {
+        padding: 10px 0 30px 0;
+    }
+    .customSportsTab li {
+        display: inline-block;
+        padding: 2px 4px;
+    }
+    .online-play-tab-part .nav a i {
+        font-size: 24px;
+    }
+    .matchTournamentLiveWrap {
+        width: 100%;
+        margin-bottom:10px;
+        padding:3px 6px;
+    }
+    .matchTournamentDetailPart {
+        width: 50% !important;
+    }
+    .matchTournamentLivePart {
+        width: 20% !important;
+    }
+    input[type=number]::-webkit-inner-spin-button,
+    input[type=number]::-webkit-outer-spin-button {
+        -webkit-appearance: none;
+        margin: 0;
+    }
+    .team-name-part {
+        margin: 2px 0px;
+        padding:0px;
+    }
+    .choice-team-part {
+        padding:0px;
+    }
+    .single-item-for-mobile {
+        padding:2px;
+    }
+    .single-item {
+        padding:2px;
+    }
+    .upcomingNotification {
+        padding-left: 7px;
+        font-size: 12px;
+    }
+
+  .online-play-tab-part .nav a span {
+    margin-top: 0;
+      font-size:10px;
+  }
+  .testmonial-thumb-part::before {
+    display: none;
+  }
+  .result-item .result-details {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+    order: -3;
+    padding-bottom: 15px;
+  }
+  .result-item .team--left, .result-item .team--right {
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+  .result-item .team--left {
+    justify-content: flex-end;
+    padding-right: 15px;
+  }
+  .result-item .team--right {
+    justify-content: flex-start;
+    padding-left: 15px;
+  }
+  .result-item {
+    padding: 20px 15px;
+  }
+  .post-tags,
+  .meta-share {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .meta-share {
+    margin-top: 15px;
+  }
+  .single-comment-wrap .content {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+    padding-left: 0;
+    padding-top: 15px;
+  }
+  .single-comment-wrap .content p {
+    margin-top: 5px;
+  }
+  .bet-accuracy {
+    margin-top: 50px;
+  }
+  .card-header .btn-link {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 440px) {
+    input[type=number]::-webkit-inner-spin-button,
+    input[type=number]::-webkit-outer-spin-button {
+        -webkit-appearance: none;
+        margin: 0;
+    }
+  .banner-title {
+    font-size: 46px;
+  }
+  .promo-video-part .content {
+    padding-left: 15px;
+  }
+  .promotion-thumb .promotion-content .title a {
+    font-size: 24px;
+  }
+  .promotion-thumb .promotion-content {
+    padding: 30px 30px;
+  }
+  .user-details {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+    text-align: center;
+  }
+  .user-statusa-area {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+    text-align: center;
+    margin-top: 45px;
+  }
+}
+
+@media (max-width: 400px) {
+    input[type=number]::-webkit-inner-spin-button,
+    input[type=number]::-webkit-outer-spin-button {
+        -webkit-appearance: none;
+        margin: 0;
+    }
+  .service-item {
+    justify-content: center;
+  }
+  .service-item .content {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+    padding-left: 0;
+    text-align: center;
+    padding-top: 15px;
+  }
+  .cmn-btn {
+    padding: 10px 15px;
+  }
+  .btn-lg {
+    min-width: 150px;
+  }
+  .section-padding {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+  .service-section.section-padding {
+    padding-bottom: 50px;
+  }
+  .testimonial-section {
+    padding-bottom: 135px;
+  }
+  .step-section {
+    padding-bottom: 50px;
+  }
+}
+
+@media (max-width: 320px) {
+    input[type=number]::-webkit-inner-spin-button,
+    input[type=number]::-webkit-outer-spin-button {
+        -webkit-appearance: none;
+        margin: 0;
+    }
+  .banner-title {
+    font-size: 42px;
+  }
+  .banner-content-area {
+    padding: 100px 0;
+  }
+  h2, h2>a {
+    font-size: 32px;
+  }
+  .result-item .team .flag {
+    display: none;
+  }
+  .play-butlar-slider-arrows {
+    bottom: 55px;
+  }
+}
